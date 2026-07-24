@@ -84,11 +84,11 @@ REVIEWER_3_NAME: "Jadys Ruiz"
 REVIEWER_3_DATE: "4 years ago"
 REVIEWER_3_TEXT: "Master James is not only the best Master I have met in this journey of finding a good school for my son but he is the most personable and most humble I've met! He is so good with the kids, stern in his teachings but understanding. Makes them feel comfortable and makes sure they learn."
 
-TRIAL_WEBHOOK_URL: "https://PLACEHOLDER-replace-before-build"
-STARTER_KIT_WEBHOOK_URL: "https://PLACEHOLDER-replace-before-build"
-QUIZ_WEBHOOK_URL: "https://PLACEHOLDER-replace-before-build"
-FINAL_CTA_WEBHOOK_URL: "https://PLACEHOLDER-replace-before-build"
-BOOKING_CALENDAR_URL: "https://PLACEHOLDER-replace-before-build"
+TRIAL_WEBHOOK_URL: "https://services.leadconnectorhq.com/hooks/bYmTeczWNOEzcQDvbSsC/webhook-trigger/oxrJ14RUgCgM5yrfzBiQ"
+STARTER_KIT_WEBHOOK_URL: "https://services.leadconnectorhq.com/hooks/bYmTeczWNOEzcQDvbSsC/webhook-trigger/oxrJ14RUgCgM5yrfzBiQ"
+QUIZ_WEBHOOK_URL: "https://services.leadconnectorhq.com/hooks/bYmTeczWNOEzcQDvbSsC/webhook-trigger/oxrJ14RUgCgM5yrfzBiQ"
+FINAL_CTA_WEBHOOK_URL: "https://services.leadconnectorhq.com/hooks/bYmTeczWNOEzcQDvbSsC/webhook-trigger/oxrJ14RUgCgM5yrfzBiQ"
+BOOKING_CALENDAR_URL: "https://sites.leadconnectorhq.com/preview/Ebr4SVIKFcDKpX91GIB8"
 
 PRIVACY_POLICY_URL: https://americantkd.com/privacy-policy
 
