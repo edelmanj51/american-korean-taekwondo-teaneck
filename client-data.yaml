@@ -14,7 +14,7 @@ ZIP: "07666"
 ADDRESS_LINE_1: "1560 Teaneck Rd"
 PHONE: "(201) 837-0082"
 EMAIL: akttaekwondo@gmail.com
-HOURS: "Mon, Wed & Thu 4:20pm–7:55pm · Fri 5:00pm–7:10pm · Sat–Sun 9:00am–12:25pm · Tue Closed"
+HOURS: "Mon & Wed 4:20pm–7:10pm · Thu 4:20pm–4:55pm · Fri 5:00pm–5:40pm · Sat 9:30am–11:45am · Sun 9:00am–12:25pm · Tue Closed"
 YEAR_FOUNDED: "2016"
 PRIMARY_COLOR: "#C8102E"
 SECONDARY_COLOR: "#1B1F3B"
@@ -44,21 +44,21 @@ PROGRAM_1_AUDIENCE_KIDS: "1"
 
 PROGRAM_2_NAME: "Children / Junior"
 PROGRAM_2_AGE_RANGE: "Ages 6–10"
-PROGRAM_2_DAYS: "Mon–Fri afternoons · Sat & Sun mornings"
+PROGRAM_2_DAYS: "Mon, Wed & Fri afternoons · Sat & Sun mornings"
 PROGRAM_2_SESSION_LEN: "40 min classes"
 PROGRAM_2_DESCRIPTION: "Belt-ranked classes that build concentration, courtesy, respect, self-control, and perseverance — developing focus, confidence, and self-discipline through structured Taekwondo training."
 PROGRAM_2_AUDIENCE_KIDS: "1"
 
 PROGRAM_3_NAME: "Junior / Teen"
 PROGRAM_3_AGE_RANGE: "Ages 9–17"
-PROGRAM_3_DAYS: "Mon, Wed & Fri evenings · Sat & Sun mornings"
+PROGRAM_3_DAYS: "Saturday mornings (sparring)"
 PROGRAM_3_SESSION_LEN: "40–45 min classes"
 PROGRAM_3_DESCRIPTION: "Builds a strong moral foundation and physical fitness with a focus on self-image, resisting peer pressure, respect, athletic coordination, and goal-setting — including dedicated sparring classes for advancing belts."
 PROGRAM_3_AUDIENCE_TEENS: "1"
 
 PROGRAM_4_NAME: "Teen / Adult"
 PROGRAM_4_AGE_RANGE: "Ages 10 & Up"
-PROGRAM_4_DAYS: "Mon, Wed & Thu evenings · Sun midday"
+PROGRAM_4_DAYS: "Mon & Wed evenings · Sun midday"
 PROGRAM_4_SESSION_LEN: "40 min classes"
 PROGRAM_4_DESCRIPTION: "Stress relief and real fitness through Taekwondo — self-defense, flexibility, endurance, and strength training for teens and adults of every experience level, all belts welcome."
 PROGRAM_4_AUDIENCE_TEENS: "1"
@@ -71,6 +71,18 @@ PROGRAM_5_SESSION_LEN: "Seminar"
 PROGRAM_5_DESCRIPTION: "Comprehensive training covering situational awareness and threat recognition, escape strategies, and real physical techniques — because trained students are less likely to be targeted for attempted attacks."
 PROGRAM_5_AUDIENCE_TEENS: "1"
 PROGRAM_5_AUDIENCE_ADULTS: "1"
+
+REVIEWER_1_NAME: "Lanfang Dong"
+REVIEWER_1_DATE: "8 months ago"
+REVIEWER_1_TEXT: "This has to be your first choice for a Taekwondo School. They have the best Master anyone could ask for. My kids started Taekwondo right after Covid and they've loved it since they started. They got much more confident after starting Taekwondo and are excited to take it every week. Master James is an amazing coach, being fun and strict at the same time. All the kids there are like one huge family, and Instructor Daria is very nice and helpful along with Master James. They both help out all the kids and the experience is amazing."
+
+REVIEWER_2_NAME: "Korxten Media"
+REVIEWER_2_DATE: "5 months ago"
+REVIEWER_2_TEXT: "The master is fantastic with kids — firm enough to teach real discipline, yet genuinely caring in a way that makes them feel supported. You can see how much the students respect him, and at the same time they're clearly having fun while learning. Send your kids here!"
+
+REVIEWER_3_NAME: "Jadys Ruiz"
+REVIEWER_3_DATE: "4 years ago"
+REVIEWER_3_TEXT: "Master James is not only the best Master I have met in this journey of finding a good school for my son but he is the most personable and most humble I've met! He is so good with the kids, stern in his teachings but understanding. Makes them feel comfortable and makes sure they learn."
 
 TRIAL_WEBHOOK_URL: "https://PLACEHOLDER-replace-before-build"
 STARTER_KIT_WEBHOOK_URL: "https://PLACEHOLDER-replace-before-build"
@@ -97,30 +109,30 @@ CLASS_SCHEDULE_HTML: |
       </tr>
       <tr>
         <td>Children / Junior<br><small style="color:#64748b">Ages 6–10 &middot; 40 min</small></td>
-        <td><span class="time-slot kids">5:00–6:25 PM</span></td>
+        <td><span class="time-slot kids">5:00–5:40 PM</span></td>
         <td><span class="time-empty">—</span></td>
         <td><span class="time-slot kids">5:00–6:25 PM</span></td>
-        <td><span class="time-slot kids">5:00–7:10 PM</span></td>
-        <td><span class="time-slot kids">5:00–6:25 PM</span></td>
-        <td><span class="time-slot kids">9:30–10:55 AM</span></td>
-        <td><span class="time-slot kids">9:30–10:55 AM</span></td>
+        <td><span class="time-empty">—</span></td>
+        <td><span class="time-slot kids">5:00–5:40 PM</span></td>
+        <td><span class="time-slot kids">9:30–10:10 AM</span></td>
+        <td><span class="time-slot kids">9:30–10:10 AM</span></td>
       </tr>
       <tr>
-        <td>Junior / Teen<br><small style="color:#64748b">Ages 9+ · Purple–Black &middot; Sparring</small></td>
-        <td><span class="time-slot teens">6:30–7:10 PM</span></td>
+        <td>Junior / Teen<br><small style="color:#64748b">Ages 10+ · Sparring</small></td>
         <td><span class="time-empty">—</span></td>
-        <td><span class="time-slot teens">6:30–7:10 PM</span></td>
         <td><span class="time-empty">—</span></td>
-        <td><span class="time-slot teens">6:30–7:10 PM</span></td>
+        <td><span class="time-empty">—</span></td>
+        <td><span class="time-empty">—</span></td>
+        <td><span class="time-empty">—</span></td>
         <td><span class="time-slot teens">11:00–11:45 AM</span></td>
-        <td><span class="time-slot teens">11:00–11:40 AM</span></td>
+        <td><span class="time-empty">—</span></td>
       </tr>
       <tr>
         <td>Teen / Adult<br><small style="color:#64748b">Ages 10+ · All belts</small></td>
-        <td><span class="time-slot adult">7:15–7:55 PM</span></td>
+        <td><span class="time-slot adult">6:30–7:10 PM</span></td>
         <td><span class="time-empty">—</span></td>
-        <td><span class="time-slot adult">7:15–7:55 PM</span></td>
-        <td><span class="time-slot adult">7:15–7:55 PM</span></td>
+        <td><span class="time-slot adult">6:30–7:10 PM</span></td>
+        <td><span class="time-empty">—</span></td>
         <td><span class="time-empty">—</span></td>
         <td><span class="time-empty">—</span></td>
         <td><span class="time-slot adult">11:45 AM–12:25 PM</span></td>
