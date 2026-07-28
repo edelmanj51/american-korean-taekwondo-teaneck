@@ -1,6 +1,6 @@
 # NOTE: CURRENT_YEAR is also computed automatically (same way as YEARS_COUNT)
 SLUG: american-korean-taekwondo-teaneck
-SCHOOL_NAME: "American Korean Taekwondo Team Center"
+SCHOOL_NAME: "American Korean Taekwondo"
 MARTIAL_ART: Taekwondo
 SITE_URL: https://american-korean-taekwondo-teaneck.pages.dev
 DOMAIN: american-korean-taekwondo-teaneck.pages.dev
@@ -14,13 +14,14 @@ ZIP: "07666"
 ADDRESS_LINE_1: "1560 Teaneck Rd"
 PHONE: "(201) 837-0082"
 EMAIL: akttaekwondo@gmail.com
-HOURS: "Mon & Wed 4:20pm–7:10pm · Thu 4:20pm–4:55pm · Fri 5:00pm–5:40pm · Sat 9:30am–11:45am · Sun 9:00am–12:25pm · Tue Closed"
+HOURS: "Mon, Wed & Thu 4:20pm–8:00pm · Fri 5:00pm–6:30pm · Sat 9:30am–11:45am · Sun 9:00am–12:25pm · Tue Closed"
 YEAR_FOUNDED: "2016"
 PRIMARY_COLOR: "#C8102E"
 SECONDARY_COLOR: "#1B1F3B"
 LOGO_IMAGE: brand_assets/logo.png
 FACEBOOK_URL: "https://www.facebook.com/americankt/"
-INSTAGRAM_URL: ""
+INSTAGRAM_URL: "https://www.instagram.com/aktaekwondo/"
+TIKTOK_URL: "https://www.tiktok.com/@akttaekwondo"
 HERO_IMAGE: images/hero/hero.jpg
 HERO_HEADLINE: "Home of National Champions."
 HERO_SUBHEADLINE: "Teaneck's Original Kukkiwon-Certified Taekwondo Academy for Kids, Teens & Adults"
@@ -30,10 +31,19 @@ STAR_RATING: "5.0"
 REVIEW_COUNT: "36"
 ABOUT_TEXT: "American Korean Taekwondo Team Center has been Teaneck's Kukkiwon- and USA Taekwondo-certified academy since 2016, and expanded to a second location in Bergenfield in 2025. Known as the 'Home of National Champions' in the sparring division, the academy builds martial artists around five core values — focus, confidence, respect, self-control, and mental strength — in a safe, structured, and inspiring environment for every age."
 
-INSTRUCTOR_1_NAME: "Master James Koh"
+INSTRUCTOR_1_NAME: "Grandmaster James Koh"
 INSTRUCTOR_1_PHOTO: images/instructors/instructor-1/photo.jpg
 INSTRUCTOR_1_TITLE: "Founder & Head Master — 6th Dan Black Belt"
-INSTRUCTOR_1_BIO: "Master James Koh is a Kukkiwon International Master Certified 6th Dan Black Belt with more than 20 years of teaching experience and 30+ years of training. A former elite competitor with 15 years of sparring experience, he holds USA Taekwondo Gold, South Korea National Gold, and International Gold medals. He founded American Korean Taekwondo in Teaneck in 2016 and expanded to Bergenfield in 2025. He's joined by a certified coaching staff including 4th Degree Black Belt Daria Kalyniuk (SafeSport-certified coach and USA Taekwondo licensed referee) and 3rd Dan Instructor Ethan."
+INSTRUCTOR_1_BIO: "Grandmaster James Koh is a Kukkiwon International Master Certified 6th Dan Black Belt with more than 20 years of teaching experience and 30+ years of training. A former elite competitor with 15 years of sparring experience, he holds USA Taekwondo Gold, South Korea National Gold, and International Gold medals. He founded American Korean Taekwondo in Teaneck in 2016 and expanded to Bergenfield in 2025."
+
+INSTRUCTOR_2_NAME: "Master Daria Kalyniuk"
+INSTRUCTOR_2_PHOTO: images/instructors/instructor-2/daria-kalyniuk.jpg
+INSTRUCTOR_2_TITLE: "Instructor — 4th Degree Black Belt"
+INSTRUCTOR_2_BIO: "Master Daria Kalyniuk is a 4th Degree WTF Kukkiwon Black Belt and ITF 1st Degree Black Belt with more than 10 years of training experience. She's a SafeSport-certified coach and USA Taekwondo licensed coach and referee, and earned a national title at the Ukrainian Championships. Master Daria brings patient, hands-on instruction to every class, especially our youngest Little Tigers."
+
+INSTRUCTOR_3_NAME: "Instructor Ethan"
+INSTRUCTOR_3_TITLE: "Instructor — 3rd Dan Black Belt"
+INSTRUCTOR_3_BIO: "Instructor Ethan is a Kukkiwon 3rd Dan Black Belt with 6 years of teaching experience, having competed in both New Jersey and New York State Championships. He brings energy and discipline to every class he teaches."
 
 PROGRAM_1_NAME: "Little Tigers"
 PROGRAM_1_AGE_RANGE: "Ages 3–5"
@@ -44,7 +54,7 @@ PROGRAM_1_AUDIENCE_KIDS: "1"
 
 PROGRAM_2_NAME: "Children / Junior"
 PROGRAM_2_AGE_RANGE: "Ages 6–10"
-PROGRAM_2_DAYS: "Mon, Wed & Fri afternoons · Sat & Sun mornings"
+PROGRAM_2_DAYS: "Mon, Wed, Thu & Fri afternoons · Sat & Sun mornings"
 PROGRAM_2_SESSION_LEN: "40 min classes"
 PROGRAM_2_DESCRIPTION: "Belt-ranked classes that build concentration, courtesy, respect, self-control, and perseverance — developing focus, confidence, and self-discipline through structured Taekwondo training."
 PROGRAM_2_AUDIENCE_KIDS: "1"
@@ -58,7 +68,7 @@ PROGRAM_3_AUDIENCE_TEENS: "1"
 
 PROGRAM_4_NAME: "Teen / Adult"
 PROGRAM_4_AGE_RANGE: "Ages 10 & Up"
-PROGRAM_4_DAYS: "Mon & Wed evenings · Sun midday"
+PROGRAM_4_DAYS: "Mon & Thu evenings · Sun midday"
 PROGRAM_4_SESSION_LEN: "40 min classes"
 PROGRAM_4_DESCRIPTION: "Stress relief and real fitness through Taekwondo — self-defense, flexibility, endurance, and strength training for teens and adults of every experience level, all belts welcome."
 PROGRAM_4_AUDIENCE_TEENS: "1"
@@ -92,6 +102,8 @@ BOOKING_CALENDAR_URL: "https://sites.leadconnectorhq.com/preview/Ebr4SVIKFcDKpX9
 
 PRIVACY_POLICY_URL: https://americantkd.com/privacy-policy
 
+# NOTE (2026-07): Client says this is a temporary/interim schedule and the
+# regular Teaneck schedule resumes in September — will need another update then.
 CLASS_SCHEDULE_HTML: |
   <table class="sched" role="table" aria-label="Weekly class schedule">
     <colgroup><col style="width:24%"><col style="width:10.85%"><col style="width:10.85%"><col style="width:10.85%"><col style="width:10.85%"><col style="width:10.85%"><col style="width:10.85%"><col style="width:10.85%"></colgroup>
@@ -112,7 +124,7 @@ CLASS_SCHEDULE_HTML: |
         <td><span class="time-slot kids">5:00–5:40 PM</span></td>
         <td><span class="time-empty">—</span></td>
         <td><span class="time-slot kids">5:00–6:25 PM</span></td>
-        <td><span class="time-empty">—</span></td>
+        <td><span class="time-slot kids">5:45–6:25 PM</span></td>
         <td><span class="time-slot kids">5:00–5:40 PM</span></td>
         <td><span class="time-slot kids">9:30–10:10 AM</span></td>
         <td><span class="time-slot kids">9:30–10:10 AM</span></td>
@@ -131,8 +143,8 @@ CLASS_SCHEDULE_HTML: |
         <td>Teen / Adult<br><small style="color:#64748b">Ages 10+ · All belts</small></td>
         <td><span class="time-slot adult">6:30–7:10 PM</span></td>
         <td><span class="time-empty">—</span></td>
-        <td><span class="time-slot adult">6:30–7:10 PM</span></td>
         <td><span class="time-empty">—</span></td>
+        <td><span class="time-slot adult">6:30–7:10 PM</span></td>
         <td><span class="time-empty">—</span></td>
         <td><span class="time-empty">—</span></td>
         <td><span class="time-slot adult">11:45 AM–12:25 PM</span></td>
